@@ -211,3 +211,7 @@ cleanup.sh
 send.sh
 public/
 run.sh
+
+setenv.sh
+doc-01-report.pdf
+doc-02-whitepaper.pdf

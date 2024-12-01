@@ -1,0 +1,17 @@
+{
+  "name": "poc-langchain",
+  "version": "1.0.0",
+  "description": "Template repository for PoCs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@langchain/core": "^0.3.19",
+    "@langchain/openai": "^0.3.14",
+    "langchain": "^0.3.6"
+  }
+}
